@@ -5,6 +5,9 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/sulemanfazal12/tech.git
 git push -u origin main
+java
+python
+ruby
  #this is a comment from local repo
  #this is a comment from Remort repo
 #let see merging
