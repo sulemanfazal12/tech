@@ -8,3 +8,6 @@ git push -u origin main
 java
 python
 ruby
+ #this is a comment from local repo
+ #this is a comment from Remort repo
+#let see merging
